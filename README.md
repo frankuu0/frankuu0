@@ -1,16 +1,16 @@
 ### Hi there 👋
+#### I'm a frontend developer and currently work for a marketing company.
 
-<!--
-**frankuu0/frankuu0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills: 
+![HTML](https://img.shields.io/badge/-HTML-000?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-000?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=for-the-badge&logo=JavaScript)
+![React](https://img.shields.io/badge/-React-000?style=for-the-badge&logo=React)
+![Vue](https://img.shields.io/badge/-Vue-000?style=for-the-badge&logo=Vue.js)
+![MobX](https://img.shields.io/badge/-MobX-000?style=for-the-badge&logo=MobX)
+![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
+![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU&#32;Bash)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats: 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankuu0&theme=radical&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
