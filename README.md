@@ -11,6 +11,3 @@
 ![PHP](https://img.shields.io/badge/-PHP-000?style=for-the-badge&logo=PHP)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=for-the-badge&logo=PostgreSQL)
 ![Bash](https://img.shields.io/badge/-Bash-000?style=for-the-badge&logo=GNU&#32;Bash)
-
-### Stats: 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankuu0&theme=radical&include_all_commits=true&show_icons=true&count_private=true&hide_border=true&hide=stars,contribs)](https://github.com/anuraghazra/github-readme-stats)
